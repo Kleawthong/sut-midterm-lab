@@ -1,2 +1,2 @@
 # sut-midterm-lab
-# ทำ issue-6
+# ทำ issue-3
